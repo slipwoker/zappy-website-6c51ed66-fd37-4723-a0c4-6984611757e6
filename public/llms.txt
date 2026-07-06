@@ -1,0 +1,93 @@
+# בת אל משולם — Generative Engine Optimization Map
+
+> Bat El Mesholam is a luxury boutique gift design studio that transforms personal photos, names, and memories into beautifully crafted, emotionally resonant products. The brand blends graphic design, quality printing, sublimation, and vinyl cutting to create custom gifts for families, kindergartens, schools, events, and businesses. The studio's identity is warm, feminine, and sophisticated — positioned far above a standard print shop, radiating the elegance of a curated personal atelier where every product tells a story and every detail is handled with love and precision.
+
+---
+
+## Pages
+
+### בית
+https://-6c51ed66.zappy5.app
+מחפשים מתנה מרגשת עם סיפור אישי? בסטודיו של בת אל משולם הופכים תמונות, שמות וזיכרונות למוצרים מעוצבים בהדפסות איכות וסובלימציה. בואו ליצור יחד קסם אמיתי!
+
+### עולמות עיצוב
+https://-6c51ed66.zappy5.app/design-worlds
+צללו לתוך עולמות העיצוב המגוונים של בת אל משולם: הדפסה על מוצרים, ויניל איכותי, סובלימציה ופיתוח תמונות. כל עולם הוא הזדמנות חדשה ליצור מתנה בלתי נשכחת. התחילו לחקור!
+
+### גנים ובתי ספר
+https://-6c51ed66.zappy5.app/education-gifts
+הפכו רגעים חינוכיים למזכרות מתוקות! בת אל משולם מעצבת מתנות אישיות לגני ילדים ובתי ספר בסובלימציה והדפסות איכות, עם תמונות, שמות וציורי ילדים. צרו מתנה שכולם יאהבו!
+
+### אירועים ויודאיקה
+https://-6c51ed66.zappy5.app/events-judaica
+האירוע שלכם ראוי למזכרת מושלמת! בת אל משולם יוצרת פריטי יודאיקה ומתנות לאירועים בעיצוב אישי מרגש, מבר מצווה ועד חתונה. כל פרט מעוצב בסובלימציה ודיוק אמנותי. הפכו זיכרון לנצחי!
+
+### אודות
+https://-6c51ed66.zappy5.app/about
+הכירו את בת אל משולם — סטודיו בוטיק לעיצוב מתנות יוקרתיות שנולד מאהבה לפרטים קטנים. כאן הופכים זיכרונות לאמנות מוחשית בעזרת סובלימציה, הדפסות איכות והרבה תשוקה. בואו לשמוע את הסיפור!
+
+### צור קשר
+https://-6c51ed66.zappy5.app/contact
+יש לכם רעיון למתנה אישית? צרו קשר עם בת אל משולם והפכו אותו למציאות! אנחנו כאן לייעוץ, עיצוב והפקה של מוצרים מרגשים בסובלימציה והדפסות איכות. מלאו פרטים ונתחיל ליצור יחד!
+
+### Products
+https://-6c51ed66.zappy5.app/products
+המוצרים שלנו - בת אל משולם
+
+### Product Detail
+https://-6c51ed66.zappy5.app/product/:slug
+פרטי המוצר - בת אל משולם
+
+### Category
+https://-6c51ed66.zappy5.app/category/:slug
+מוצרים - בת אל משולם
+
+### תודה שפנית אלינו
+https://-6c51ed66.zappy5.app/thank-you
+בת אל משולם - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-6c51ed66.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-6c51ed66.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-6c51ed66.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בת אל משולם
+Bat El Mesholam is a luxury boutique gift design studio that transforms personal photos, names, and memories into beautifully crafted, emotionally resonant products. The brand blends graphic design, quality printing, sublimation, and vinyl cutting to create custom gifts for families, kindergartens, schools, events, and businesses. The studio's identity is warm, feminine, and sophisticated — positioned far above a standard print shop, radiating the elegance of a curated personal atelier where every product tells a story and every detail is handled with love and precision.
+
+## Target Audience
+- משפחות, גני ילדים, בתי ספר, עסקים ואירועים
+- משפחות מחפשות מתנות
+- גני ילדים ובתי ספר
+- עסקים למתנות עסקיות
+
+## Industry
+Personalized Gifts & Custom Printing Studio
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-6c51ed66.zappy5.app/sitemap.xml
+- Robots: https://-6c51ed66.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-6c51ed66.zappy5.app/llms-full.txt
+- Products (JSON): https://-6c51ed66.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-6c51ed66.zappy5.app/product-feed.xml
