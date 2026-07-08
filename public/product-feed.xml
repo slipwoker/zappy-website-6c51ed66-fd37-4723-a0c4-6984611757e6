@@ -4,6 +4,19 @@
     <title>בת אל משולם</title>
     <link>https://example.com</link>
     <description>Product feed for בת אל משולם</description>
-    <lastBuildDate>Mon, 06 Jul 2026 15:15:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 07:57:29 GMT</lastBuildDate>
+    <item>
+      <g:id>6b3e6277-010e-4800-b5b3-033a63424057</g:id>
+      <g:title>ספל חרסינה בעיצוב אישי</g:title>
+      <g:description>ספל חרסינה איכותי בצבע לבן, המתאים להדפסה אישית בטכנולוגיית סובלימציה. מושלם כמתנה מקורית לימי הולדת, ימי נישואין, גני ילדים, בתי ספר, צוותי הוראה, עסקים, אירועים ומזכרות. הספל מעניק צבעים חדים ועשירים, עם גימור מבריק ומראה יוקרתי. ניתן להדפיס עליו תמונות, שמות, הקדשות, לוגו או כל עיצוב בהתאמה אישית.</g:description>
+      <g:link>https://example.com/product/spl-chrsynh-baytsvb-ayshy-dliunp</g:link>
+      <g:image_link>https://example.com/assets/product-1783351924519-460f5d.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>45.00 ILS</g:price>
+      <g:sale_price>35.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>בת אל משולם</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

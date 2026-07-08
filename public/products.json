@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T15:15:06.445Z",
+  "generated_at": "2026-07-08T07:57:29.726Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "6b3e6277-010e-4800-b5b3-033a63424057",
+      "slug": "spl-chrsynh-baytsvb-ayshy-dliunp",
+      "name": "ספל חרסינה בעיצוב אישי",
+      "name_translations": {},
+      "description": "<p><br></p><p>פרטי המוצר:</p><p><br></p><p>* נפח: 330 מ\"ל </p><p>* חומר: חרסינה איכותית</p><p>* צבע: לבן מבריק</p><p>* מתאים להדפסת סובלימציה מלאה</p><p>* ידית אחיזה נוחה</p><p>* רב-פעמי ,עמיד למדיח ולשימוש יומיומי</p>",
+      "short_description": "ספל חרסינה איכותי בצבע לבן, המתאים להדפסה אישית בטכנולוגיית סובלימציה. מושלם כמתנה מקורית לימי הולדת, ימי נישואין, גני ילדים, בתי ספר, צוותי הוראה, עסקים, אירועים ומזכרות.\n\nהספל מעניק צבעים חדים ועשירים, עם גימור מבריק ומראה יוקרתי. ניתן להדפיס עליו תמונות, שמות, הקדשות, לוגו או כל עיצוב בהתאמה אישית.\n",
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 45,
+      "sale_price": 35,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783351924519-460f5d.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/spl-chrsynh-baytsvb-ayshy-dliunp",
+      "categories": [],
+      "updated_at": "2026-07-06T15:34:53.075Z"
+    }
+  ]
 }
