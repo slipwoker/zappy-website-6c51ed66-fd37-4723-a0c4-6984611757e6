@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;500;600;700&family=David+Libre:wght@400;500;700&display=swap');
+
 
 
 /* Self-hosted fonts (Inter + Rubik for multi-language support) */
@@ -13561,6 +13563,207 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
     width: 34px;
     height: 34px;
   }
+}
+
+.pdp-hero {
+  background: linear-gradient(180deg, var(--primary-color, var(--primary, #FFFCF8)) 0%, #FBF6EF 40%, var(--primary-color, var(--primary, #FFFCF8)) 100%);
+  font-family: 'Assistant', system-ui, sans-serif;
+}
+
+.pdp-hero .pdp-hero__title {
+  font-family: 'David Libre', 'Assistant', serif;
+  font-weight: 700;
+  color: #2C1A0E;
+  letter-spacing: 0.01em;
+}
+
+.pdp-hero .pdp-hero__subtitle {
+  font-weight: 300;
+  font-size: 1.2rem;
+  color: #8B7355;
+}
+
+.pdp-hero .pdp-hero__main-image-wrapper {
+  border-radius: 24px;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.05), 0 4px 16px rgba(0,0,0,0.03);
+  background: #F7F1E8;
+}
+
+.pdp-hero .pdp-hero__thumb {
+  border-radius: 14px;
+  border: 2px solid #EDE3D5;
+}
+
+.pdp-hero .pdp-hero__thumb--active {
+  border-color: #C4956A;
+  box-shadow: 0 0 0 3px rgba(196,149,106,0.2);
+}
+
+.pdp-hero .pdp-hero__feature-item {
+  background: rgba(233,167,179,0.06);
+  border: 1px solid rgba(200,184,168,0.2);
+  border-radius: 14px;
+  padding: 12px 16px;
+}
+
+.pdp-hero .pdp-hero__feature-text {
+  color: #5C4332;
+  font-weight: 500;
+}
+
+.pdp-hero .pdp-hero__price {
+  color: #9B6B48;
+  font-family: 'David Libre', 'Assistant', serif;
+}
+
+.pdp-hero .pdp-hero__tag {
+  border-radius: 24px;
+  background: #FBF6EF;
+  border: 1.5px solid #E8DDD2;
+  color: #6D4A50;
+  font-weight: 500;
+  padding: 8px 18px;
+  transition: all 0.3s ease;
+}
+
+.pdp-hero .pdp-hero__text-input {
+  border-radius: 16px;
+  border: 2px solid #E8DDD2;
+  padding: 18px 22px;
+  background: var(--primary-color, var(--primary, #FFFCF8));
+  font-family: 'Assistant', system-ui, sans-serif;
+}
+
+.pdp-hero .pdp-hero__cta {
+  border-radius: 18px;
+  padding: 20px 40px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  background: linear-gradient(135deg, #9B6B48 0%, #B8865A 50%, #C4956A 100%);
+  box-shadow: 0 8px 28px rgba(155,107,72,0.28);
+  transition: transform 0.25s ease, box-shadow 0.3s ease;
+  letter-spacing: 0.02em;
+}
+
+.bgm-design-examples {
+  background: linear-gradient(180deg, #FBF6EF 0%, var(--primary-color, var(--primary, #FFFCF8)) 50%, #FBF6EF 100%);
+  font-family: 'Assistant', system-ui, sans-serif;
+  padding: 90px 20px;
+}
+
+.bgm-section-title {
+  font-family: 'David Libre', 'Assistant', serif;
+  font-weight: 700;
+  font-size: 2rem;
+  color: #2C1A0E;
+  margin-bottom: 12px;
+}
+
+.bgm-section-subtitle {
+  font-weight: 300;
+  color: #8B7355;
+  font-size: 1.1rem;
+  margin-bottom: 40px;
+}
+
+.bgm-design-examples .bgm-card {
+  background: var(--primary-color, var(--primary, #FFFCF8));
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.04), 0 2px 8px rgba(0,0,0,0.02);
+  border: 1px solid #F0E8DB;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.bgm-design-examples .bgm-card-image {
+  background: #F7F1E8;
+  border-radius: 20px 20px 0 0;
+}
+
+.bgm-design-examples .bgm-card-title {
+  font-family: 'Assistant', system-ui, sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #3E2C1F;
+  padding: 14px 16px 8px;
+}
+
+.bgm-design-examples .bgm-card-btn {
+  background: transparent;
+  border: 1.5px solid #C4956A;
+  color: #9B6B48;
+  border-radius: 24px;
+  padding: 10px 20px;
+  font-family: 'Assistant', system-ui, sans-serif;
+  font-weight: 500;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin: 0 16px 16px;
+}
+
+.bgm-design-examples .bgm-carousel-btn {
+  background: var(--primary-color, var(--primary, #FFFCF8));
+  border: 1.5px solid #E8DDD2;
+  border-radius: 50%;
+  color: #9B6B48;
+  width: 44px;
+  height: 44px;
+  transition: all 0.3s ease;
+}
+
+.pdp-hero .pdp-hero__price::after {
+  content: '';
+  background: linear-gradient(135deg, #C4956A, var(--accent-color, var(--accent, #E9A7B3)));
+  height: 2px;
+  border-radius: 2px;
+}
+
+.pdp-hero .pdp-hero__tag:hover {
+  background: #F2E4D8;
+  border-color: #C4956A;
+  color: var(--background-color, var(--background, var(--bg-light, #4A2E32)));
+}
+
+.pdp-hero .pdp-hero__text-input:focus {
+  border-color: #C4956A;
+  box-shadow: 0 0 0 4px rgba(196,149,106,0.08);
+}
+
+.pdp-hero .pdp-hero__cta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 32px rgba(155,107,72,0.35);
+}
+
+.bgm-design-examples .bgm-section-title {
+  font-family: 'David Libre', 'Assistant', serif;
+  font-weight: 700;
+  font-size: 2rem;
+  color: #2C1A0E;
+  margin-bottom: 12px;
+}
+
+.bgm-design-examples .bgm-section-subtitle {
+  font-weight: 300;
+  color: #8B7355;
+  font-size: 1.1rem;
+  margin-bottom: 40px;
+}
+
+.bgm-design-examples .bgm-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(0,0,0,0.06), 0 4px 12px rgba(0,0,0,0.03);
+}
+
+.bgm-design-examples .bgm-card-btn:hover {
+  background: #C4956A;
+  color: var(--primary-color, var(--primary, #FFFCF8));
+}
+
+.bgm-design-examples .bgm-carousel-btn:hover {
+  background: #FBF6EF;
+  border-color: #C4956A;
+  color: #6D4A50;
 }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
